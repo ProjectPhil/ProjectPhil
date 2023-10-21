@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Profession/Interests] from [Your Location].
+I'm Philip, a passionate [Your Profession/Interests] from [Your Location].
 
 ## About Me
 
