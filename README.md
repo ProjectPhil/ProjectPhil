@@ -27,7 +27,7 @@ Here are some of the projects I'm proud of:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatguyphil1&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjectPhil&show_icons=true&theme=dracula)
 
 ## Connect with Me
 
