@@ -1,45 +1,33 @@
 # Hello, World! 👋
 
-I'm Philip, a passionate [Your Profession/Interests] from [Your Location].
+I'm Philip, a passionate full-stack developer and hosting provider from the UK & US.
 
 ## About Me
 
-- 🔭 I'm currently working on [Current Project/Job].
-- 🌱 I'm currently learning [What You're Learning].
-- 👯 I'm looking to collaborate on [Projects/Ideas].
-- 🤔 I'm looking for help with [Specific Issue/Challenge].
-- 💬 Ask me about [Your Expertise/Interests].
-- 📫 How to reach me: [Your Email or Social Media Profiles].
+* 🔭 I'm currently working on **StormNet Hosting** and **ProjectPhil**, including our Discord bot **pMusic**.
+* 🌱 I'm currently learning advanced backend architecture and scalable cloud infrastructure.
+* 👯 I'm looking to collaborate on **open-source bots, hosting tools, and full-stack web apps**.
+* 🤔 I'm looking for help with **community growth strategies and marketing for dev tools**.
+* 💬 Ask me about **Discord bots, backend APIs, and custom licensing systems**.
+* 📫 How to reach me: [@ProjectPhil\_ on Twitter](https://twitter.com/ProjectPhil_) or [projectphil.store](https://projectphil.dev)
 
-## Tech Stack
+## 🧰 Tech Stack
+* 💻 Favorite languages: **TypeScript, JavaScript, Python**
+* 🌐 Web technologies: **React, Node.js, Express, REST APIs**
+* 🛠️ Tools & frameworks: **Next.js, Tailwind CSS, MongoDB, Docker, Redis, Cloudflare**
 
-- 💻 My favorite programming languages: [Your Favorite Languages].
-- 🌐 Web technologies I use: [Web Technologies].
-- 🛠️ Tools and frameworks: [Tools and Frameworks].
+## 🚀 Projects
+* [**StormNet Hosting**](https://stormnethosting.com) – Modern hosting solutions for developers & gamers.
+* [**PMusic**](https://github.com/ProjectPhil/pMusic) – A powerful Discord music bot under **ProjectPhil**.
+* [**pTickets**](https://github.com/ProjectPhil/pTickets) – A versatile and user-friendly Discord ticket bot designed for efficient support and issue tracking.
+* [**ProjectPhil Panel**](https://panel.projectphil.store) – A unified interface to manage all bot instances and tools.
 
-## Projects
+## 📊 GitHub Stats
+![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjectPhil\&show_icons=true\&theme=dracula)
 
-Here are some of the projects I'm proud of:
-
-- [Project 1](Link to Project 1) - Brief description of Project 1.
-- [Project 2](Link to Project 2) - Brief description of Project 2.
-- [Project 3](Link to Project 3) - Brief description of Project 3.
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjectPhil&show_icons=true&theme=dracula)
-
-## Connect with Me
-
+## 🌐 Connect with Me
 Let's connect and chat about technology, open source, or anything else:
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Website/Blog](Your Website or Blog Link)
+* 📧 Email: [me@projectphil.co.uk](mailto:me@projectphil.co.uk)
+* 💬 Discord: [Join my server](https://discord.gg/zJg73wwPdQ)
 
-Feel free to reach out and say hi! 👋
-
-<!--
-  You can add more sections or customize it further based on your preferences.
-  Don't forget to replace the placeholders with your actual information and links.
--->
