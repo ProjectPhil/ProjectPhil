@@ -19,8 +19,7 @@ I'm Philip, a passionate full-stack developer and hosting provider from the UK &
 ## 🚀 Projects
 * [**StormNet Hosting**](https://stormnethosting.com) – Modern hosting solutions for developers & gamers.
 * [**PMusic**](https://github.com/ProjectPhil/pMusic) – A powerful Discord music bot under **ProjectPhil**.
-* [**pTickets**](https://github.com/ProjectPhil/pTickets) – A versatile and user-friendly Discord ticket bot designed for efficient support and issue tracking.
-* [**ProjectPhil Panel**](https://panel.projectphil.store) – A unified interface to manage all bot instances and tools.
+* [**PTickets**](https://github.com/ProjectPhil/pTickets) – A versatile and user-friendly Discord ticket bot designed for efficient support and issue tracking.
 
 ## 📊 GitHub Stats
 ![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjectPhil\&show_icons=true\&theme=dracula)
