@@ -9,7 +9,6 @@ I'm Philip, a passionate full-stack developer and hosting provider from the UK &
 * 👯 I'm looking to collaborate on **open-source bots, hosting tools, and full-stack web apps**.
 * 🤔 I'm looking for help with **community growth strategies and marketing for dev tools**.
 * 💬 Ask me about **Discord bots, backend APIs, and custom licensing systems**.
-* 📫 How to reach me: [@ProjectPhil\_ on Twitter](https://twitter.com/ProjectPhil_) or [projectphil.store](https://projectphil.dev)
 
 ## 🧰 Tech Stack
 * 💻 Favorite languages: **TypeScript, JavaScript, Python**
