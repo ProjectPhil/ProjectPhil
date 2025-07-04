@@ -1,31 +1,52 @@
-# Hello, World! 👋
+### 📠 [PROJECTPHIL][Website] 📠
 
-I'm Philip, a passionate full-stack developer and hosting provider from the UK & US.
+[![Twitter Follow](https://img.shields.io/twitter/follow/ProjectPhil?label=Follow)](https://twitter.com/intent/follow?screen_name=ProjectPhil)
+[![GitHub followers](https://img.shields.io/github/followers/ProjectPhil?label=Follow&style=social)](https://github.com/ProjectPhil)
+[![Discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zJg73wwPdQ)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://projectphil.co.uk)
+![](https://komarev.com/ghpvc/?username=ProjectPhil&label=Views)
 
-## About Me
+<br>
 
-* 🔭 I'm currently working on **StormNet Hosting** and **ProjectPhil**, including our Discord bot **pMusic**.
-* 🌱 I'm currently learning advanced backend architecture and scalable cloud infrastructure.
-* 👯 I'm looking to collaborate on **open-source bots, hosting tools, and full-stack web apps**.
-* 🤔 I'm looking for help with **community growth strategies and marketing for dev tools**.
-* 💬 Ask me about **Discord bots, backend APIs, and custom licensing systems**.
+![status](https://api.statusbadges.me/badge/status/1155551194337521726)
+![vscode](https://api.statusbadges.me/badge/vscode/1155551194337521726?fallback=Nothing)
+[![spotify](https://api.statusbadges.me/badge/spotify/1155551194337521726?fallback=Nothing)](https://api.statusbadges.me/openspotify/1155551194337521726)
 
-## 🧰 Tech Stack
-* 💻 Favorite languages: **TypeScript, JavaScript, Python**
-* 🌐 Web technologies: **React, Node.js, Express, REST APIs**
-* 🛠️ Tools & frameworks: **Next.js, Tailwind CSS, MongoDB, Docker, Redis, Cloudflare**
+*Hey, I'm Philip — the creator of ProjectPhil, a UK-based Full Stack Developer with a passion for open source, Discord bots, automation tools, and scalable backend infrastructure. I've been building since I was young and turned my passion into a full platform, community, and store.*
 
-## 🚀 Projects
-* [**StormNet Hosting**](https://stormnethosting.com) – Modern hosting solutions for developers & gamers.
-* [**PMusic**](https://github.com/ProjectPhil/pMusic) – A powerful Discord music bot under **ProjectPhil**.
-* [**PTickets**](https://github.com/ProjectPhil/pTickets) – A versatile and user-friendly Discord ticket bot designed for efficient support and issue tracking.
+*ProjectPhil is all about pushing innovation, supporting devs, and creating tools and services that actually help people.*
 
-## 📊 GitHub Stats
-![Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProjectPhil\&show_icons=true\&theme=dracula)
+*Business & Store Contact: me@projectphil.co.uk*
 
-## 🌐 Connect with Me
-Let's connect and chat about technology, open source, or anything else:
+<br />
 
-* 📧 Email: [me@projectphil.co.uk](mailto:me@projectphil.co.uk)
-* 💬 Discord: [Join my server](https://discord.gg/zJg73wwPdQ)
+<a href="https://discord.gg/zJg73wwPdQ" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.projectphil.co.uk/discord/invite/zJg73wwPdQ">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.projectphil.co.uk/discord/invite/zJg73wwPdQ/light">
+    <img alt="Discord Invite" src="https://api.projectphil.co.uk/discord/invite/zJg73wwPdQ">
+  </picture>
+</a>
 
+<br />
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
+<!--END_SECTION:waka-->
+
+[Website]: https://projectphil.store
+[Twitter]: https://twitter.com/ProjectPhil
+[Discord]: https://discord.gg/zJg73wwPdQ
