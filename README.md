@@ -8,9 +8,9 @@
 
 <br>
 
-![status](https://api.statusbadges.me/badge/status/1155551194337521726)
-![vscode](https://api.statusbadges.me/badge/vscode/1155551194337521726?fallback=Nothing)
-[![spotify](https://api.statusbadges.me/badge/spotify/1155551194337521726?fallback=Nothing)](https://api.statusbadges.me/openspotify/1155551194337521726)
+![status](https://api.statusbadges.me/badge/status/1155551194337521726?simple=true)
+![vscode](https://api.statusbadges.me/badge/vscode/1155551194337521726)
+[![spotify](https://api.statusbadges.me/badge/spotify/1155551194337521726)](https://api.statusbadges.me/openspotify/1155551194337521726)
 
 *Hey, I'm Philip — the creator of ProjectPhil, a UK-based Full Stack Developer with a passion for open source, Discord bots, automation tools, and scalable backend infrastructure. I've been building since I was young and turned my passion into a full platform, community, and store.*
 
