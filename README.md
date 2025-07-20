@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ProjectPhil?label=Follow)](https://twitter.com/intent/follow?screen_name=ProjectPhil)
 [![GitHub followers](https://img.shields.io/github/followers/ProjectPhil?label=Follow&style=social)](https://github.com/ProjectPhil)
 [![Discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zJg73wwPdQ)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://projectphil.co.uk)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://projectphil.store)
 ![](https://komarev.com/ghpvc/?username=ProjectPhil&label=Views)
 
 <br>
