@@ -17,9 +17,7 @@
 *ProjectPhil is all about pushing innovation, supporting devs, and creating tools and services that actually help people.*
 
 *Business & Store Contact: me@projectphil.co.uk*
-
 <br />
-
 <a href="https://discord.gg/zJg73wwPdQ" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.projectphil.co.uk/discord/invite/zJg73wwPdQ">
