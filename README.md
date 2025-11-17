@@ -44,7 +44,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 <!--END_SECTION:waka-->
-
 [Website]: https://projectphil.store
 [Twitter]: https://twitter.com/ProjectPhil
 [Discord]: https://discord.gg/zJg73wwPdQ
